@@ -13,3 +13,4 @@ CodingBat Java problems:
 Already solved:
 
 - Warmup-1
+- Warmup-2
