@@ -12,5 +12,5 @@ CodingBat Java problems:
 
 Already solved:
 
-- Warmup-1
-- Warmup-2
+- [Warmup-1](/src/main/java/warmup_1)
+- [Warmup-2](/src/main/java/warmup_2)
