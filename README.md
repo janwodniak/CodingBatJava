@@ -14,3 +14,4 @@ Already solved:
 
 - [Warmup-1](/src/main/java/warmup_1)
 - [Warmup-2](/src/main/java/warmup_2)
+- [Functiona-1](/src/main/java/functional_1)
