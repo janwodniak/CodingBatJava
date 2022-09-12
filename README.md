@@ -15,3 +15,4 @@ Already solved:
 - [Warmup-1](/src/main/java/warmup_1)
 - [Warmup-2](/src/main/java/warmup_2)
 - [Functional-1](/src/main/java/functional_1)
+- [Functional-2](/src/main/java/functional_2)
