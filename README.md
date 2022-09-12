@@ -17,3 +17,5 @@ Already solved:
 - [Functional-1](/src/main/java/functional_1)
 - [Functional-2](/src/main/java/functional_2)
 - [Map-1](/src/main/java/map_1)
+- [Array-1](/src/main/java/array_1)
+
