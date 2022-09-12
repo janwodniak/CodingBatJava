@@ -16,3 +16,4 @@ Already solved:
 - [Warmup-2](/src/main/java/warmup_2)
 - [Functional-1](/src/main/java/functional_1)
 - [Functional-2](/src/main/java/functional_2)
+- [Map-1](/src/main/java/map_1)
